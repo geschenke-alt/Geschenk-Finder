@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Entdecke die besten Geschenkideen für Männer zum 30. Geburtstag, personalisierte Geschenke und originelle Überraschungen für Frauen zum 50. Geburtstag. Jetzt passende Geburtstagsgeschenke finden!" />
+  <meta name="keywords" content="geschenk 30 geburtstag mann, personalisierte geschenke, geschenk 50 geburtstag frau, geburtstag geschenk ideen für männer, geschenkfinder, originelle geschenkideen, geschenk inspiration" />
+  <title>Geschenk Finder - Geburtstagsgeschenke & personalisierte Ideen</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #fdfdfd;
+      color: #333;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      text-align: center;
+    }
+    h1 {
+      font-size: 1.8rem;
+    }
+    p {
+      margin: 1rem 0;
+    }
+    .button {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      background-color: #1f2937;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎁 Geschenk Finder für Geburtstage</h1>
+    <p>Finde <strong>personalisierte Geschenke</strong> und kreative <strong>Geschenkideen für Männer zum 30. Geburtstag</strong> sowie für Frauen zum 50. Geburtstag.</p>
+    <p>Nutze unseren smarten <strong>Geschenk-Finder</strong>, um die perfekte Überraschung zu entdecken.</p>
+    <a href="https://www.makebuy.de/pages/geschenk-finder" class="button">Jetzt Geschenkideen entdecken</a>
+  </div>
+
+  <script>
+    // Automatische Weiterleitung nach 2 Sekunden
+    setTimeout(() => {
+      window.location.href = "https://www.makebuy.de/pages/geschenk-finder";
+    }, 2000);
+  </script>
+</body>
+</html>
